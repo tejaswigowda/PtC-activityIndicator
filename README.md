@@ -1,1 +1,0 @@
-# super-activity-ind
