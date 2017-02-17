@@ -4,6 +4,7 @@ var AI = {
     document.body.innerHTML += mu;
   },
   hide: function(){
-    $(".fadeBox").remove();
+    //$(".fadeBox").remove();
+    document.getElementsByClassName("fadeBox")[0].remove();
   }
 }
