@@ -1,8 +1,8 @@
-# super-activity-ind
+# PtC-activityIndicator
 ## _Simple Activity indicator for your webapp_
 
 ### Installation
-    1. `git clone https://github.com/tejaswigowda/super-activity-ind.git`
+    1. `git clone https://github.com/tejaswigowda/PtC-activityIndicator.git`
     2. Include `ai.png`, `ai.css`, `ai.js` into your project
       -- `<script src='src/ai.js' type='text/javascript'> </script>`
       -- `<link href='src/ai.css' rel='stylesheet' type='text/css'>`
